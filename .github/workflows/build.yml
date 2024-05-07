@@ -1,0 +1,30 @@
+name: Build
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch: ~
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          submodules: false
+          show-progress: false
+
+      - name: Prepare scripts
+        run: chmod +x ${GITHUB_WORKSPACE}/*.sh
+
+      - name: Build
+        run: ${GITHUB_WORKSPACE}/bandcamp-liked-albums.sh > "${GITHUB_WORKSPACE}/build/bandcamp-liked-albums.xml"
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5

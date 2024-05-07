@@ -1,0 +1,172 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://torunar.github.io/rss-feeds/build/bandcamp-liked-albums.xml" rel="self" type="application/rss+xml" />
+    <title># /usr/bin/torunar --music</title>
+    <link>https://bandcamp.com/torunar/wishlist</link>
+    <description>Понравившиеся альбомы на Bandcamp</description>
+    <language>ru-RU</language>
+    <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
+
+    <lastBuildDate>Mon, 20 May 2024 11:28:40 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Luna Pythonissam — Ecos del miedo]]></title>
+      <link>https://aiaa7.bandcamp.com/album/ecos-del-miedo</link>
+      <guid>https://aiaa7.bandcamp.com/album/ecos-del-miedo</guid>
+      <pubDate>Mon, 20 May 2024 11:28:40 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4016263680_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[sadness, abriction — sadness // abriction]]></title>
+      <link>https://sadnessmusic.bandcamp.com/album/sadness-abriction</link>
+      <guid>https://sadnessmusic.bandcamp.com/album/sadness-abriction</guid>
+      <pubDate>Tue, 14 May 2024 09:43:37 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2932551642_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Vinyl Sluts — Двигаемся Дальше]]></title>
+      <link>https://vnlsluts.bandcamp.com/album/-</link>
+      <guid>https://vnlsluts.bandcamp.com/album/-</guid>
+      <pubDate>Mon, 13 May 2024 09:18:39 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4166208221_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Jason Priest — The Burning Years]]></title>
+      <link>https://midnightmannequin.bandcamp.com/album/the-burning-years</link>
+      <guid>https://midnightmannequin.bandcamp.com/album/the-burning-years</guid>
+      <pubDate>Fri, 10 May 2024 08:59:16 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2553415951_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[botanichesky sad — сегодня просто не мой день]]></title>
+      <link>https://botsad.bandcamp.com/album/--3</link>
+      <guid>https://botsad.bandcamp.com/album/--3</guid>
+      <pubDate>Fri, 10 May 2024 08:25:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0071179269_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[LLORA — LLORA]]></title>
+      <link>https://synthicide.bandcamp.com/album/llora</link>
+      <guid>https://synthicide.bandcamp.com/album/llora</guid>
+      <pubDate>Wed, 08 May 2024 10:57:04 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1806846934_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[LEATHERS — Ultraviolet]]></title>
+      <link>https://leathers.bandcamp.com/album/ultraviolet</link>
+      <guid>https://leathers.bandcamp.com/album/ultraviolet</guid>
+      <pubDate>Tue, 07 May 2024 13:20:48 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4232777457_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Dungeontroll — A Fortuitous Journey into the Realm of Talisa]]></title>
+      <link>https://weregnomerecords.bandcamp.com/album/a-fortuitous-journey-into-the-realm-of-talisa</link>
+      <guid>https://weregnomerecords.bandcamp.com/album/a-fortuitous-journey-into-the-realm-of-talisa</guid>
+      <pubDate>Thu, 02 May 2024 12:32:42 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1704725311_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Conifère — L'Impôt du Sang]]></title>
+      <link>https://conifere.bandcamp.com/album/limp-t-du-sang</link>
+      <guid>https://conifere.bandcamp.com/album/limp-t-du-sang</guid>
+      <pubDate>Fri, 19 Apr 2024 12:27:15 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2113382904_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[FOTOCRIME — Principle Of Pain]]></title>
+      <link>https://fotocrime.bandcamp.com/album/principle-of-pain</link>
+      <guid>https://fotocrime.bandcamp.com/album/principle-of-pain</guid>
+      <pubDate>Tue, 09 Apr 2024 11:52:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0616684211_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Noche Miseria — Buildings]]></title>
+      <link>https://nochemiseria.bandcamp.com/album/buildings</link>
+      <guid>https://nochemiseria.bandcamp.com/album/buildings</guid>
+      <pubDate>Mon, 08 Apr 2024 09:27:01 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4069775284_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Daedric Chamber — Daedric Chamber - Necromantik]]></title>
+      <link>https://grimestone.bandcamp.com/album/daedric-chamber-necromantik</link>
+      <guid>https://grimestone.bandcamp.com/album/daedric-chamber-necromantik</guid>
+      <pubDate>Mon, 08 Apr 2024 09:05:26 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0620848955_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[MASTER BOOT RECORD — PERSONAL COMPUTER]]></title>
+      <link>https://masterbootrecord.bandcamp.com/album/personal-computer</link>
+      <guid>https://masterbootrecord.bandcamp.com/album/personal-computer</guid>
+      <pubDate>Fri, 05 Apr 2024 08:43:40 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2560598250_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[NONE — Inevitable]]></title>
+      <link>https://hypnoticdirgerecords.bandcamp.com/album/inevitable</link>
+      <guid>https://hypnoticdirgerecords.bandcamp.com/album/inevitable</guid>
+      <pubDate>Fri, 05 Apr 2024 08:43:19 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1059869856_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[DAN TERMINUS — Gothic Engine]]></title>
+      <link>https://dan-terminus.bandcamp.com/album/gothic-engine</link>
+      <guid>https://dan-terminus.bandcamp.com/album/gothic-engine</guid>
+      <pubDate>Wed, 03 Apr 2024 08:42:09 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1481782346_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Electro Ride: The Neon Racing — Original Videogame Soundtrack]]></title>
+      <link>https://retrowavetouchrecords.bandcamp.com/album/original-videogame-soundtrack-6</link>
+      <guid>https://retrowavetouchrecords.bandcamp.com/album/original-videogame-soundtrack-6</guid>
+      <pubDate>Tue, 02 Apr 2024 15:07:27 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4012949143_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Retro Promenade — The Next Peak Vol III (Twin Peaks Tribute)]]></title>
+      <link>https://retropromenade.bandcamp.com/album/the-next-peak-vol-iii-twin-peaks-tribute</link>
+      <guid>https://retropromenade.bandcamp.com/album/the-next-peak-vol-iii-twin-peaks-tribute</guid>
+      <pubDate>Thu, 28 Mar 2024 10:42:58 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1886617895_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Retro Promenade — The Next Peak Vol II (Twin Peaks Tribute)]]></title>
+      <link>https://retropromenade.bandcamp.com/album/the-next-peak-vol-ii-twin-peaks-tribute</link>
+      <guid>https://retropromenade.bandcamp.com/album/the-next-peak-vol-ii-twin-peaks-tribute</guid>
+      <pubDate>Thu, 28 Mar 2024 10:42:56 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0059450094_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Retro Promenade Various Artists — The Next Peak Vol I (Twin Peaks Tribute)]]></title>
+      <link>https://retropromenade.bandcamp.com/album/the-next-peak-vol-i-twin-peaks-tribute</link>
+      <guid>https://retropromenade.bandcamp.com/album/the-next-peak-vol-i-twin-peaks-tribute</guid>
+      <pubDate>Thu, 28 Mar 2024 10:42:53 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2228379208_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[CARATHIS — Amethyst & Moonstone]]></title>
+      <link>https://personal-records.bandcamp.com/album/amethyst-moonstone</link>
+      <guid>https://personal-records.bandcamp.com/album/amethyst-moonstone</guid>
+      <pubDate>Thu, 28 Mar 2024 10:41:53 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1099173791_9.jpg" />]]></description>
+    </item>
+  </channel>
+</rss>
