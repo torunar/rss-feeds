@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 20 May 2024 11:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 10:19:30 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[TURQUOISEDEATH — Raise the Sun]]></title>
+      <link>https://turquoisedeath.bandcamp.com/album/raise-the-sun</link>
+      <guid>https://turquoisedeath.bandcamp.com/album/raise-the-sun</guid>
+      <pubDate>Fri, 24 May 2024 10:19:30 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3117614944_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Luna Pythonissam — Ecos del miedo]]></title>
@@ -159,14 +167,6 @@
       <guid>https://retropromenade.bandcamp.com/album/the-next-peak-vol-i-twin-peaks-tribute</guid>
       <pubDate>Thu, 28 Mar 2024 10:42:53 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a2228379208_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[CARATHIS — Amethyst & Moonstone]]></title>
-      <link>https://personal-records.bandcamp.com/album/amethyst-moonstone</link>
-      <guid>https://personal-records.bandcamp.com/album/amethyst-moonstone</guid>
-      <pubDate>Thu, 28 Mar 2024 10:41:53 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1099173791_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
