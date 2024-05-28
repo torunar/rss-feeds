@@ -7,7 +7,23 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Fri, 24 May 2024 10:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 12:40:18 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Sugar Wounds — Mechanical Friends (Remastered)]]></title>
+      <link>https://sugarwounds.bandcamp.com/album/mechanical-friends-remastered</link>
+      <guid>https://sugarwounds.bandcamp.com/album/mechanical-friends-remastered</guid>
+      <pubDate>Mon, 27 May 2024 12:40:18 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3553041759_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[I See Satan Fall Like Lightning — forgotten songs]]></title>
+      <link>https://iseesatanfalllikelightning.bandcamp.com/album/forgotten-songs</link>
+      <guid>https://iseesatanfalllikelightning.bandcamp.com/album/forgotten-songs</guid>
+      <pubDate>Mon, 27 May 2024 12:37:15 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0106105373_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[TURQUOISEDEATH — Raise the Sun]]></title>
@@ -151,22 +167,6 @@
       <guid>https://retropromenade.bandcamp.com/album/the-next-peak-vol-iii-twin-peaks-tribute</guid>
       <pubDate>Thu, 28 Mar 2024 10:42:58 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a1886617895_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Retro Promenade — The Next Peak Vol II (Twin Peaks Tribute)]]></title>
-      <link>https://retropromenade.bandcamp.com/album/the-next-peak-vol-ii-twin-peaks-tribute</link>
-      <guid>https://retropromenade.bandcamp.com/album/the-next-peak-vol-ii-twin-peaks-tribute</guid>
-      <pubDate>Thu, 28 Mar 2024 10:42:56 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0059450094_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Retro Promenade Various Artists — The Next Peak Vol I (Twin Peaks Tribute)]]></title>
-      <link>https://retropromenade.bandcamp.com/album/the-next-peak-vol-i-twin-peaks-tribute</link>
-      <guid>https://retropromenade.bandcamp.com/album/the-next-peak-vol-i-twin-peaks-tribute</guid>
-      <pubDate>Thu, 28 Mar 2024 10:42:53 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2228379208_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
