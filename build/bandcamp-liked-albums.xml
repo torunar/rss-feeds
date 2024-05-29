@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 27 May 2024 12:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 13:14:57 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Archivist — ARCHIVIST]]></title>
+      <link>https://archivistmusic.bandcamp.com/album/archivist</link>
+      <guid>https://archivistmusic.bandcamp.com/album/archivist</guid>
+      <pubDate>Tue, 28 May 2024 13:14:57 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1656755776_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Sugar Wounds — Mechanical Friends (Remastered)]]></title>
@@ -159,14 +167,6 @@
       <guid>https://retrowavetouchrecords.bandcamp.com/album/original-videogame-soundtrack-6</guid>
       <pubDate>Tue, 02 Apr 2024 15:07:27 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a4012949143_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Retro Promenade — The Next Peak Vol III (Twin Peaks Tribute)]]></title>
-      <link>https://retropromenade.bandcamp.com/album/the-next-peak-vol-iii-twin-peaks-tribute</link>
-      <guid>https://retropromenade.bandcamp.com/album/the-next-peak-vol-iii-twin-peaks-tribute</guid>
-      <pubDate>Thu, 28 Mar 2024 10:42:58 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1886617895_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
