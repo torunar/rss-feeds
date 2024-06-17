@@ -7,7 +7,23 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 03 Jun 2024 08:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 11:46:23 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Daydream Plus — Clues Recalled From Memory]]></title>
+      <link>https://daydreamplus.bandcamp.com/album/clues-recalled-from-memory</link>
+      <guid>https://daydreamplus.bandcamp.com/album/clues-recalled-from-memory</guid>
+      <pubDate>Mon, 17 Jun 2024 11:46:23 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4171140185_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Minus the Bear — They Make Beer Commercials Like This]]></title>
+      <link>https://minusthebear.bandcamp.com/album/they-make-beer-commercials-like-this</link>
+      <guid>https://minusthebear.bandcamp.com/album/they-make-beer-commercials-like-this</guid>
+      <pubDate>Mon, 17 Jun 2024 07:54:53 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4181069534_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Dusk — INDUSTRIE]]></title>
@@ -151,22 +167,6 @@
       <guid>https://grimestone.bandcamp.com/album/daedric-chamber-necromantik</guid>
       <pubDate>Mon, 08 Apr 2024 09:05:26 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a0620848955_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[MASTER BOOT RECORD — PERSONAL COMPUTER]]></title>
-      <link>https://masterbootrecord.bandcamp.com/album/personal-computer</link>
-      <guid>https://masterbootrecord.bandcamp.com/album/personal-computer</guid>
-      <pubDate>Fri, 05 Apr 2024 08:43:40 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2560598250_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[NONE — Inevitable]]></title>
-      <link>https://hypnoticdirgerecords.bandcamp.com/album/inevitable</link>
-      <guid>https://hypnoticdirgerecords.bandcamp.com/album/inevitable</guid>
-      <pubDate>Fri, 05 Apr 2024 08:43:19 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1059869856_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
