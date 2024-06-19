@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 17 Jun 2024 11:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 14:53:17 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Atlantic — Black Sands - (demo)]]></title>
+      <link>https://atlantic-music.bandcamp.com/album/black-sands-demo</link>
+      <guid>https://atlantic-music.bandcamp.com/album/black-sands-demo</guid>
+      <pubDate>Tue, 18 Jun 2024 14:53:17 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1429830325_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Daydream Plus — Clues Recalled From Memory]]></title>
@@ -159,14 +167,6 @@
       <guid>https://nochemiseria.bandcamp.com/album/buildings</guid>
       <pubDate>Mon, 08 Apr 2024 09:27:01 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a4069775284_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Daedric Chamber — Daedric Chamber - Necromantik]]></title>
-      <link>https://grimestone.bandcamp.com/album/daedric-chamber-necromantik</link>
-      <guid>https://grimestone.bandcamp.com/album/daedric-chamber-necromantik</guid>
-      <pubDate>Mon, 08 Apr 2024 09:05:26 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0620848955_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
