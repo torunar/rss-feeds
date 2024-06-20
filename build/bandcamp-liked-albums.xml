@@ -7,7 +7,23 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Tue, 18 Jun 2024 14:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 08:52:11 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Unreqvited — Disquiet]]></title>
+      <link>https://unreqvited.bandcamp.com/album/disquiet-2</link>
+      <guid>https://unreqvited.bandcamp.com/album/disquiet-2</guid>
+      <pubDate>Thu, 20 Jun 2024 08:52:11 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1671454143_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Bobbing — Year of the Newt]]></title>
+      <link>https://bobbing.bandcamp.com/album/year-of-the-newt</link>
+      <guid>https://bobbing.bandcamp.com/album/year-of-the-newt</guid>
+      <pubDate>Wed, 19 Jun 2024 13:41:49 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0859690856_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Atlantic — Black Sands - (demo)]]></title>
@@ -151,22 +167,6 @@
       <guid>https://conifere.bandcamp.com/album/limp-t-du-sang</guid>
       <pubDate>Fri, 19 Apr 2024 12:27:15 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a2113382904_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[FOTOCRIME — Principle Of Pain]]></title>
-      <link>https://fotocrime.bandcamp.com/album/principle-of-pain</link>
-      <guid>https://fotocrime.bandcamp.com/album/principle-of-pain</guid>
-      <pubDate>Tue, 09 Apr 2024 11:52:24 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0616684211_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Noche Miseria — Buildings]]></title>
-      <link>https://nochemiseria.bandcamp.com/album/buildings</link>
-      <guid>https://nochemiseria.bandcamp.com/album/buildings</guid>
-      <pubDate>Mon, 08 Apr 2024 09:27:01 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4069775284_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
