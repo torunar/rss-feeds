@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Thu, 20 Jun 2024 08:52:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 09:17:22 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[blksmiith — A MESSAGE FROM MY DIGITAL TWIN]]></title>
+      <link>https://blksmiith.bandcamp.com/album/a-message-from-my-digital-twin</link>
+      <guid>https://blksmiith.bandcamp.com/album/a-message-from-my-digital-twin</guid>
+      <pubDate>Tue, 25 Jun 2024 09:17:22 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0170941542_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Unreqvited — Disquiet]]></title>
@@ -159,14 +167,6 @@
       <guid>https://weregnomerecords.bandcamp.com/album/a-fortuitous-journey-into-the-realm-of-talisa</guid>
       <pubDate>Thu, 02 May 2024 12:32:42 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a1704725311_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Conifère — L'Impôt du Sang]]></title>
-      <link>https://conifere.bandcamp.com/album/limp-t-du-sang</link>
-      <guid>https://conifere.bandcamp.com/album/limp-t-du-sang</guid>
-      <pubDate>Fri, 19 Apr 2024 12:27:15 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2113382904_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
