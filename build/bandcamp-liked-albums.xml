@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 01 Jul 2024 09:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 08:22:19 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[GROZA — Nadir]]></title>
+      <link>https://groza-blackmetal.bandcamp.com/album/nadir</link>
+      <guid>https://groza-blackmetal.bandcamp.com/album/nadir</guid>
+      <pubDate>Wed, 03 Jul 2024 08:22:19 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3441831976_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[saddyowner, TanookiAlex — Minewest Emo]]></title>
@@ -159,14 +167,6 @@
       <guid>https://synthicide.bandcamp.com/album/llora</guid>
       <pubDate>Wed, 08 May 2024 10:57:04 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a1806846934_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[LEATHERS — Ultraviolet]]></title>
-      <link>https://leathers.bandcamp.com/album/ultraviolet</link>
-      <guid>https://leathers.bandcamp.com/album/ultraviolet</guid>
-      <pubDate>Tue, 07 May 2024 13:20:48 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4232777457_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
