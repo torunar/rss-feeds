@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Wed, 03 Jul 2024 08:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 14:40:36 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Fecking Bahamas — IX. U.S. East Coast // Midwest]]></title>
+      <link>https://feckingbahamas.bandcamp.com/album/ix-u-s-east-coast-midwest</link>
+      <guid>https://feckingbahamas.bandcamp.com/album/ix-u-s-east-coast-midwest</guid>
+      <pubDate>Wed, 03 Jul 2024 14:40:36 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2970494478_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[GROZA — Nadir]]></title>
@@ -159,14 +167,6 @@
       <guid>https://botsad.bandcamp.com/album/--3</guid>
       <pubDate>Fri, 10 May 2024 08:25:24 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a0071179269_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[LLORA — LLORA]]></title>
-      <link>https://synthicide.bandcamp.com/album/llora</link>
-      <guid>https://synthicide.bandcamp.com/album/llora</guid>
-      <pubDate>Wed, 08 May 2024 10:57:04 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1806846934_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
