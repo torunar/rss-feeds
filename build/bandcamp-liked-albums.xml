@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Wed, 03 Jul 2024 14:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 13:48:03 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Astronoid — Air]]></title>
+      <link>https://astronoid.bandcamp.com/album/air</link>
+      <guid>https://astronoid.bandcamp.com/album/air</guid>
+      <pubDate>Thu, 04 Jul 2024 13:48:03 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3675257090_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Fecking Bahamas — IX. U.S. East Coast // Midwest]]></title>
@@ -159,14 +167,6 @@
       <guid>https://midnightmannequin.bandcamp.com/album/the-burning-years</guid>
       <pubDate>Fri, 10 May 2024 08:59:16 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a2553415951_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[botanichesky sad — сегодня просто не мой день]]></title>
-      <link>https://botsad.bandcamp.com/album/--3</link>
-      <guid>https://botsad.bandcamp.com/album/--3</guid>
-      <pubDate>Fri, 10 May 2024 08:25:24 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0071179269_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
