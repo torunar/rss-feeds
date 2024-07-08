@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Thu, 04 Jul 2024 13:48:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 08:28:07 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Isiliel — null]]></title>
+      <link>https://isiliel.bandcamp.com/track/--3</link>
+      <guid>https://isiliel.bandcamp.com/track/--3</guid>
+      <pubDate>Mon, 08 Jul 2024 08:28:07 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0665780188_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Astronoid — Air]]></title>
@@ -159,14 +167,6 @@
       <guid>https://vnlsluts.bandcamp.com/album/-</guid>
       <pubDate>Mon, 13 May 2024 09:18:39 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a4166208221_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Jason Priest — The Burning Years]]></title>
-      <link>https://midnightmannequin.bandcamp.com/album/the-burning-years</link>
-      <guid>https://midnightmannequin.bandcamp.com/album/the-burning-years</guid>
-      <pubDate>Fri, 10 May 2024 08:59:16 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2553415951_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
