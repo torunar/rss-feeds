@@ -20,7 +20,7 @@ cat /tmp/bandcamp-liked-albums.json | \
 cat /tmp/bandcamp-liked-albums.json | \
   jq -r '.tralbums |= sort_by(.added | strptime("%d %b %Y %H:%M:%S %Z")) | .tralbums | reverse | limit(20; .[]) | "
     <item>
-      <title><![CDATA[\(.band_name) — \(.album_title)]]></title>
+      <title><![CDATA[\(.band_name) — \(.item_title)]]></title>
       <link>\(.item_url)</link>
       <guid>\(.item_url)</guid>
       <pubDate>\(.added | strptime("%d %b %Y %H:%M:%S %Z") | strftime("%a, %d %b %Y %H:%M:%S %z"))</pubDate>
