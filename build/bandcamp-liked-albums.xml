@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 08 Jul 2024 08:28:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 08:36:36 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Moongazer — Gone/The Pain That Never Leaves...]]></title>
+      <link>https://cantiereticiproductions.bandcamp.com/album/gone-the-pain-that-never-leaves</link>
+      <guid>https://cantiereticiproductions.bandcamp.com/album/gone-the-pain-that-never-leaves</guid>
+      <pubDate>Tue, 16 Jul 2024 08:36:36 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0920945461_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Isiliel — 聖暗顕現]]></title>
@@ -159,14 +167,6 @@
       <guid>https://sadnessmusic.bandcamp.com/album/sadness-abriction</guid>
       <pubDate>Tue, 14 May 2024 09:43:37 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a2932551642_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Vinyl Sluts — Двигаемся Дальше]]></title>
-      <link>https://vnlsluts.bandcamp.com/album/-</link>
-      <guid>https://vnlsluts.bandcamp.com/album/-</guid>
-      <pubDate>Mon, 13 May 2024 09:18:39 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4166208221_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
