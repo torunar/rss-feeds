@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Tue, 16 Jul 2024 08:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:02:42 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Glass Spells — Crystals]]></title>
+      <link>https://glassspells.bandcamp.com/album/crystals</link>
+      <guid>https://glassspells.bandcamp.com/album/crystals</guid>
+      <pubDate>Mon, 22 Jul 2024 12:02:42 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0693534679_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Moongazer — Gone/The Pain That Never Leaves...]]></title>
@@ -159,14 +167,6 @@
       <guid>https://aiaa7.bandcamp.com/album/ecos-del-miedo</guid>
       <pubDate>Mon, 20 May 2024 11:28:40 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a4016263680_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[sadness, abriction — sadness // abriction]]></title>
-      <link>https://sadnessmusic.bandcamp.com/album/sadness-abriction</link>
-      <guid>https://sadnessmusic.bandcamp.com/album/sadness-abriction</guid>
-      <pubDate>Tue, 14 May 2024 09:43:37 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2932551642_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
