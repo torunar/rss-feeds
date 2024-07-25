@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 22 Jul 2024 12:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 08:46:30 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Mitch Murder — Suburbia]]></title>
+      <link>https://mitchmurder.bandcamp.com/album/suburbia</link>
+      <guid>https://mitchmurder.bandcamp.com/album/suburbia</guid>
+      <pubDate>Thu, 25 Jul 2024 08:46:30 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3275975957_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Glass Spells — Crystals]]></title>
@@ -151,14 +159,6 @@
       <guid>https://iseesatanfalllikelightning.bandcamp.com/album/forgotten-songs</guid>
       <pubDate>Mon, 27 May 2024 12:37:15 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a0106105373_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[TURQUOISEDEATH — Raise the Sun]]></title>
-      <link>https://turquoisedeath.bandcamp.com/album/raise-the-sun</link>
-      <guid>https://turquoisedeath.bandcamp.com/album/raise-the-sun</guid>
-      <pubDate>Fri, 24 May 2024 10:19:30 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3117614944_9.jpg" />]]></description>
     </item>
 
     <item>
