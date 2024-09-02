@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Fri, 16 Aug 2024 12:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 08:42:38 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Sadness — i love you]]></title>
+      <link>https://sadnessmusic.bandcamp.com/album/i-love-you</link>
+      <guid>https://sadnessmusic.bandcamp.com/album/i-love-you</guid>
+      <pubDate>Mon, 02 Sep 2024 08:42:38 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4212670175_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[toe — NOW I SEE THE LIGHT]]></title>
@@ -159,14 +167,6 @@
       <guid>https://mephorash.bandcamp.com/album/krystl-ah</guid>
       <pubDate>Fri, 31 May 2024 17:38:42 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a3353141637_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Archivist — ARCHIVIST]]></title>
-      <link>https://archivistmusic.bandcamp.com/album/archivist</link>
-      <guid>https://archivistmusic.bandcamp.com/album/archivist</guid>
-      <pubDate>Tue, 28 May 2024 13:14:57 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1656755776_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
