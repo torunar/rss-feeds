@@ -7,7 +7,23 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 02 Sep 2024 08:42:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 11:00:08 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Curta'n Wall — Curta'n Wall - YR GWYDDBWYLL]]></title>
+      <link>https://grimestone.bandcamp.com/album/curtan-wall-yr-gwyddbwyll</link>
+      <guid>https://grimestone.bandcamp.com/album/curtan-wall-yr-gwyddbwyll</guid>
+      <pubDate>Fri, 04 Oct 2024 11:00:08 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3251208303_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[The Endearing — Internet Friends]]></title>
+      <link>https://newretrowave.bandcamp.com/album/internet-friends</link>
+      <guid>https://newretrowave.bandcamp.com/album/internet-friends</guid>
+      <pubDate>Fri, 04 Oct 2024 08:03:22 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2079897166_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Sadness — i love you]]></title>
@@ -151,22 +167,6 @@
       <guid>https://minusthebear.bandcamp.com/album/they-make-beer-commercials-like-this</guid>
       <pubDate>Mon, 17 Jun 2024 07:54:53 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a4181069534_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Dusk — INDUSTRIE]]></title>
-      <link>https://duskvt.bandcamp.com/album/industrie-2</link>
-      <guid>https://duskvt.bandcamp.com/album/industrie-2</guid>
-      <pubDate>Mon, 03 Jun 2024 08:12:56 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4115223603_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Mephorash — KRYSTL-AH]]></title>
-      <link>https://mephorash.bandcamp.com/album/krystl-ah</link>
-      <guid>https://mephorash.bandcamp.com/album/krystl-ah</guid>
-      <pubDate>Fri, 31 May 2024 17:38:42 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3353141637_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
