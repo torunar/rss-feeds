@@ -7,7 +7,23 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Fri, 04 Oct 2024 11:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 13:33:37 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[DANCE WITH THE DEAD — Dark Matter]]></title>
+      <link>https://dancewiththedead.bandcamp.com/album/dark-matter</link>
+      <guid>https://dancewiththedead.bandcamp.com/album/dark-matter</guid>
+      <pubDate>Wed, 06 Nov 2024 13:33:37 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0016158139_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Bit Brigade — Castlevania]]></title>
+      <link>https://bitbrigade.bandcamp.com/album/castlevania</link>
+      <guid>https://bitbrigade.bandcamp.com/album/castlevania</guid>
+      <pubDate>Wed, 06 Nov 2024 13:33:17 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4151983832_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Curta'n Wall — Curta'n Wall - YR GWYDDBWYLL]]></title>
@@ -151,22 +167,6 @@
       <guid>https://atlantic-music.bandcamp.com/album/black-sands-demo</guid>
       <pubDate>Tue, 18 Jun 2024 14:53:17 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a1429830325_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Daydream Plus — Clues Recalled From Memory]]></title>
-      <link>https://daydreamplus.bandcamp.com/album/clues-recalled-from-memory</link>
-      <guid>https://daydreamplus.bandcamp.com/album/clues-recalled-from-memory</guid>
-      <pubDate>Mon, 17 Jun 2024 11:46:23 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4171140185_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Minus the Bear — They Make Beer Commercials Like This]]></title>
-      <link>https://minusthebear.bandcamp.com/album/they-make-beer-commercials-like-this</link>
-      <guid>https://minusthebear.bandcamp.com/album/they-make-beer-commercials-like-this</guid>
-      <pubDate>Mon, 17 Jun 2024 07:54:53 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4181069534_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
