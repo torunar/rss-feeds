@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Wed, 06 Nov 2024 13:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 14:36:35 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Bit Brigade — Castlebandia (remastered)]]></title>
+      <link>https://bitbrigade.bandcamp.com/album/castlebandia-remastered</link>
+      <guid>https://bitbrigade.bandcamp.com/album/castlebandia-remastered</guid>
+      <pubDate>Mon, 11 Nov 2024 14:36:35 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1203872347_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[DANCE WITH THE DEAD — Dark Matter]]></title>
@@ -159,14 +167,6 @@
       <guid>https://bobbing.bandcamp.com/album/year-of-the-newt</guid>
       <pubDate>Wed, 19 Jun 2024 13:41:49 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a0859690856_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Atlantic — Black Sands - (demo)]]></title>
-      <link>https://atlantic-music.bandcamp.com/album/black-sands-demo</link>
-      <guid>https://atlantic-music.bandcamp.com/album/black-sands-demo</guid>
-      <pubDate>Tue, 18 Jun 2024 14:53:17 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1429830325_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
