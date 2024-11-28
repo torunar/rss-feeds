@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Tue, 19 Nov 2024 12:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 12:33:33 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Oceansize — Frames]]></title>
+      <link>https://oceansize.bandcamp.com/album/frames</link>
+      <guid>https://oceansize.bandcamp.com/album/frames</guid>
+      <pubDate>Wed, 27 Nov 2024 12:33:33 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2419450150_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Isleptonthemoon — Only the Stars Know of My Misfortune]]></title>
@@ -159,14 +167,6 @@
       <guid>https://blksmiith.bandcamp.com/album/a-message-from-my-digital-twin</guid>
       <pubDate>Tue, 25 Jun 2024 09:17:22 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a0170941542_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Unreqvited — Disquiet]]></title>
-      <link>https://unreqvited.bandcamp.com/album/disquiet-2</link>
-      <guid>https://unreqvited.bandcamp.com/album/disquiet-2</guid>
-      <pubDate>Thu, 20 Jun 2024 08:52:11 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1671454143_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
