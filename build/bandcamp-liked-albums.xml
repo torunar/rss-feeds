@@ -7,7 +7,23 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Wed, 27 Nov 2024 12:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 12:29:23 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Savlonic — Red]]></title>
+      <link>https://weebl.bandcamp.com/album/red</link>
+      <guid>https://weebl.bandcamp.com/album/red</guid>
+      <pubDate>Mon, 09 Dec 2024 12:29:23 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4134485991_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Savlonic — Ultraviolet]]></title>
+      <link>https://weebl.bandcamp.com/album/ultraviolet</link>
+      <guid>https://weebl.bandcamp.com/album/ultraviolet</guid>
+      <pubDate>Mon, 09 Dec 2024 12:27:46 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0034906118_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Oceansize — Frames]]></title>
@@ -151,22 +167,6 @@
       <guid>https://groza-blackmetal.bandcamp.com/album/nadir</guid>
       <pubDate>Wed, 03 Jul 2024 08:22:19 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a3441831976_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[saddyowner, TanookiAlex — Minewest Emo]]></title>
-      <link>https://saddyowner.bandcamp.com/album/minewest-emo</link>
-      <guid>https://saddyowner.bandcamp.com/album/minewest-emo</guid>
-      <pubDate>Mon, 01 Jul 2024 09:02:31 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1591339836_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[blksmiith — A MESSAGE FROM MY DIGITAL TWIN]]></title>
-      <link>https://blksmiith.bandcamp.com/album/a-message-from-my-digital-twin</link>
-      <guid>https://blksmiith.bandcamp.com/album/a-message-from-my-digital-twin</guid>
-      <pubDate>Tue, 25 Jun 2024 09:17:22 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0170941542_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
