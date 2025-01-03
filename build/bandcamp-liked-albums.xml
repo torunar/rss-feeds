@@ -7,7 +7,31 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Wed, 18 Dec 2024 12:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 09:47:35 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Bipolar Architecture — Metaphysicize]]></title>
+      <link>https://bipolararchitecture.bandcamp.com/album/metaphysicize</link>
+      <guid>https://bipolararchitecture.bandcamp.com/album/metaphysicize</guid>
+      <pubDate>Fri, 03 Jan 2025 09:47:35 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2407418869_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[sadness, soulless — burning as the first light]]></title>
+      <link>https://sadnessmusic.bandcamp.com/album/burning-as-the-first-light</link>
+      <guid>https://sadnessmusic.bandcamp.com/album/burning-as-the-first-light</guid>
+      <pubDate>Fri, 03 Jan 2025 09:39:16 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2232278796_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[ASTROPHYSICS — Hopeless & Unending (Selected)]]></title>
+      <link>https://astrophysicsbrazil.bandcamp.com/album/hopeless-unending-selected</link>
+      <guid>https://astrophysicsbrazil.bandcamp.com/album/hopeless-unending-selected</guid>
+      <pubDate>Fri, 03 Jan 2025 08:50:45 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1541111547_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[nea selini — Une pluie incessante]]></title>
@@ -143,30 +167,6 @@
       <guid>https://glassspells.bandcamp.com/album/crystals</guid>
       <pubDate>Mon, 22 Jul 2024 12:02:42 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a0693534679_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Moongazer — Gone/The Pain That Never Leaves...]]></title>
-      <link>https://cantiereticiproductions.bandcamp.com/album/gone-the-pain-that-never-leaves</link>
-      <guid>https://cantiereticiproductions.bandcamp.com/album/gone-the-pain-that-never-leaves</guid>
-      <pubDate>Tue, 16 Jul 2024 08:36:36 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0920945461_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Isiliel — 聖暗顕現]]></title>
-      <link>https://isiliel.bandcamp.com/track/--3</link>
-      <guid>https://isiliel.bandcamp.com/track/--3</guid>
-      <pubDate>Mon, 08 Jul 2024 08:28:07 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0665780188_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Astronoid — Air]]></title>
-      <link>https://astronoid.bandcamp.com/album/air</link>
-      <guid>https://astronoid.bandcamp.com/album/air</guid>
-      <pubDate>Thu, 04 Jul 2024 13:48:03 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3675257090_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
