@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Fri, 03 Jan 2025 09:47:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 12:31:39 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Crochet — Birth Piece]]></title>
+      <link>https://702crochet.bandcamp.com/album/birth-piece</link>
+      <guid>https://702crochet.bandcamp.com/album/birth-piece</guid>
+      <pubDate>Tue, 07 Jan 2025 12:31:39 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2811869849_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Bipolar Architecture — Metaphysicize]]></title>
@@ -159,14 +167,6 @@
       <guid>https://mitchmurder.bandcamp.com/album/suburbia</guid>
       <pubDate>Thu, 25 Jul 2024 08:46:30 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a3275975957_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Glass Spells — Crystals]]></title>
-      <link>https://glassspells.bandcamp.com/album/crystals</link>
-      <guid>https://glassspells.bandcamp.com/album/crystals</guid>
-      <pubDate>Mon, 22 Jul 2024 12:02:42 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0693534679_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
