@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Tue, 07 Jan 2025 12:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 13:21:24 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Aren't We Amphibians — fourwaysplit]]></title>
+      <link>https://arentweamphibians.bandcamp.com/album/fourwaysplit</link>
+      <guid>https://arentweamphibians.bandcamp.com/album/fourwaysplit</guid>
+      <pubDate>Tue, 14 Jan 2025 13:21:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0481404808_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Crochet — Birth Piece]]></title>
@@ -159,14 +167,6 @@
       <guid>https://grimdorofficial.bandcamp.com/album/the-flight-to-the-ford</guid>
       <pubDate>Tue, 13 Aug 2024 13:18:21 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a1653847824_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Mitch Murder — Suburbia]]></title>
-      <link>https://mitchmurder.bandcamp.com/album/suburbia</link>
-      <guid>https://mitchmurder.bandcamp.com/album/suburbia</guid>
-      <pubDate>Thu, 25 Jul 2024 08:46:30 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3275975957_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
