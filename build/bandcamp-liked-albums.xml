@@ -7,7 +7,31 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Tue, 14 Jan 2025 13:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 15:07:12 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[I'm Sorry Emil — I'm Sorry Emil]]></title>
+      <link>https://imsorryemil.bandcamp.com/album/im-sorry-emil</link>
+      <guid>https://imsorryemil.bandcamp.com/album/im-sorry-emil</guid>
+      <pubDate>Fri, 17 Jan 2025 15:07:12 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3073608211_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[The Blood Mountain Black Metal Choir — DEMO I - "Folklore"]]></title>
+      <link>https://thebloodmountainbmc.bandcamp.com/album/demo-i-folklore</link>
+      <guid>https://thebloodmountainbmc.bandcamp.com/album/demo-i-folklore</guid>
+      <pubDate>Fri, 17 Jan 2025 14:03:44 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2857856068_9.jpg" />]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Jessie Frye — Otherworld]]></title>
+      <link>https://newretrowave.bandcamp.com/album/otherworld</link>
+      <guid>https://newretrowave.bandcamp.com/album/otherworld</guid>
+      <pubDate>Fri, 17 Jan 2025 14:03:42 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1404218126_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Aren't We Amphibians — fourwaysplit]]></title>
@@ -143,30 +167,6 @@
       <guid>https://sadnessmusic.bandcamp.com/album/i-love-you</guid>
       <pubDate>Mon, 02 Sep 2024 08:42:38 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a4212670175_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[toe — NOW I SEE THE LIGHT]]></title>
-      <link>https://toe-music.bandcamp.com/album/now-i-see-the-light</link>
-      <guid>https://toe-music.bandcamp.com/album/now-i-see-the-light</guid>
-      <pubDate>Fri, 16 Aug 2024 12:19:59 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3658750944_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Sorrowful Life — I will never forget]]></title>
-      <link>https://sorrowfullife.bandcamp.com/album/i-will-never-forget</link>
-      <guid>https://sorrowfullife.bandcamp.com/album/i-will-never-forget</guid>
-      <pubDate>Wed, 14 Aug 2024 11:34:13 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1663625165_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Grimdor — The Flight to the Ford]]></title>
-      <link>https://grimdorofficial.bandcamp.com/album/the-flight-to-the-ford</link>
-      <guid>https://grimdorofficial.bandcamp.com/album/the-flight-to-the-ford</guid>
-      <pubDate>Tue, 13 Aug 2024 13:18:21 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1653847824_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
