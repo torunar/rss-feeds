@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Fri, 24 Jan 2025 09:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 08:49:36 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[FEX — Subways Of Your Mind (Like The Wind) [Official]]]></title>
+      <link>https://theouteredge.bandcamp.com/album/subways-of-your-mind-like-the-wind-official</link>
+      <guid>https://theouteredge.bandcamp.com/album/subways-of-your-mind-like-the-wind-official</guid>
+      <pubDate>Mon, 27 Jan 2025 08:49:36 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4253891661_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[NewRetroWave — In Search of Darkness (1990-1994) [Original Documentary Soundtrack]]]></title>
@@ -159,14 +167,6 @@
       <guid>https://bitbrigade.bandcamp.com/album/castlebandia-remastered</guid>
       <pubDate>Mon, 11 Nov 2024 14:36:35 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a1203872347_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[DANCE WITH THE DEAD — Dark Matter]]></title>
-      <link>https://dancewiththedead.bandcamp.com/album/dark-matter</link>
-      <guid>https://dancewiththedead.bandcamp.com/album/dark-matter</guid>
-      <pubDate>Wed, 06 Nov 2024 13:33:37 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0016158139_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
