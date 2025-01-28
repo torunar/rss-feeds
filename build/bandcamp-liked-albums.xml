@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 27 Jan 2025 08:49:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 13:13:14 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Viscula — IV]]></title>
+      <link>https://viscula.bandcamp.com/album/iv-2</link>
+      <guid>https://viscula.bandcamp.com/album/iv-2</guid>
+      <pubDate>Mon, 27 Jan 2025 13:13:14 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a0486947324_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[FEX — Subways Of Your Mind (Like The Wind) [Official]]]></title>
@@ -159,14 +167,6 @@
       <guid>https://isleptonthemoon.bandcamp.com/album/only-the-stars-know-of-my-misfortune</guid>
       <pubDate>Tue, 19 Nov 2024 12:18:04 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a3686507942_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Bit Brigade — Castlebandia (remastered)]]></title>
-      <link>https://bitbrigade.bandcamp.com/album/castlebandia-remastered</link>
-      <guid>https://bitbrigade.bandcamp.com/album/castlebandia-remastered</guid>
-      <pubDate>Mon, 11 Nov 2024 14:36:35 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1203872347_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
