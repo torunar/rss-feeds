@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 27 Jan 2025 13:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 09:46:41 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Unreqvited — A Pathway to the Moon (Deluxe Edition)]]></title>
+      <link>https://unreqvited.bandcamp.com/album/a-pathway-to-the-moon-deluxe-edition</link>
+      <guid>https://unreqvited.bandcamp.com/album/a-pathway-to-the-moon-deluxe-edition</guid>
+      <pubDate>Wed, 29 Jan 2025 09:46:41 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3643028739_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Viscula — IV]]></title>
@@ -159,14 +167,6 @@
       <guid>https://oceansize.bandcamp.com/album/frames</guid>
       <pubDate>Wed, 27 Nov 2024 12:33:33 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a2419450150_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Isleptonthemoon — Only the Stars Know of My Misfortune]]></title>
-      <link>https://isleptonthemoon.bandcamp.com/album/only-the-stars-know-of-my-misfortune</link>
-      <guid>https://isleptonthemoon.bandcamp.com/album/only-the-stars-know-of-my-misfortune</guid>
-      <pubDate>Tue, 19 Nov 2024 12:18:04 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a3686507942_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
