@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 10 Feb 2025 14:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 09:29:01 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[DYGL — Live at Shibuya WWWX 2024 12 04]]></title>
+      <link>https://dygl.bandcamp.com/album/live-at-shibuya-wwwx-2024-12-04</link>
+      <guid>https://dygl.bandcamp.com/album/live-at-shibuya-wwwx-2024-12-04</guid>
+      <pubDate>Mon, 24 Mar 2025 09:29:01 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2348510468_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[toe — the book about my idle plot on a vague anxiety]]></title>
@@ -159,14 +167,6 @@
       <guid>https://kekhtarakh.bandcamp.com/album/dr-m-s-ng</guid>
       <pubDate>Tue, 17 Dec 2024 13:53:00 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a2452212580_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Savlonic — Red]]></title>
-      <link>https://weebl.bandcamp.com/album/red</link>
-      <guid>https://weebl.bandcamp.com/album/red</guid>
-      <pubDate>Mon, 09 Dec 2024 12:29:23 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a4134485991_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
