@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 24 Mar 2025 09:29:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 12:28:59 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[The Secret Chord — Generation X]]></title>
+      <link>https://newretrowave.bandcamp.com/album/generation-x</link>
+      <guid>https://newretrowave.bandcamp.com/album/generation-x</guid>
+      <pubDate>Mon, 24 Mar 2025 12:28:59 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1997853704_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[DYGL — Live at Shibuya WWWX 2024 12 04]]></title>
@@ -159,14 +167,6 @@
       <guid>https://neaselini.bandcamp.com/album/une-pluie-incessante</guid>
       <pubDate>Wed, 18 Dec 2024 12:55:00 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a2781866383_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[Këkht Aräkh — Dröm Sång]]></title>
-      <link>https://kekhtarakh.bandcamp.com/album/dr-m-s-ng</link>
-      <guid>https://kekhtarakh.bandcamp.com/album/dr-m-s-ng</guid>
-      <pubDate>Tue, 17 Dec 2024 13:53:00 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2452212580_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
