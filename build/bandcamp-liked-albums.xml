@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Mon, 24 Mar 2025 12:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 12:51:53 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Autumn Nostalgie — Metanoia]]></title>
+      <link>https://autumnnostalgie-northernsilence.bandcamp.com/album/metanoia</link>
+      <guid>https://autumnnostalgie-northernsilence.bandcamp.com/album/metanoia</guid>
+      <pubDate>Mon, 07 Apr 2025 12:51:53 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a1420674230_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[The Secret Chord — Generation X]]></title>
@@ -159,14 +167,6 @@
       <guid>https://astrophysicsbrazil.bandcamp.com/album/hopeless-unending-selected</guid>
       <pubDate>Fri, 03 Jan 2025 08:50:45 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a1541111547_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[nea selini — Une pluie incessante]]></title>
-      <link>https://neaselini.bandcamp.com/album/une-pluie-incessante</link>
-      <guid>https://neaselini.bandcamp.com/album/une-pluie-incessante</guid>
-      <pubDate>Wed, 18 Dec 2024 12:55:00 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2781866383_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
