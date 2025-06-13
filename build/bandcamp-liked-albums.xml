@@ -7,7 +7,15 @@
     <language>ru-RU</language>
     <generator>https://github.com/torunar/rss-feeds/bandcamp-liked-albums.sh</generator>
 
-    <lastBuildDate>Sun, 08 Jun 2025 08:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 14:10:03 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Gaahls WYRD — Braiding The Stories]]></title>
+      <link>https://gaahlswyrd.bandcamp.com/album/braiding-the-stories</link>
+      <guid>https://gaahlswyrd.bandcamp.com/album/braiding-the-stories</guid>
+      <pubDate>Thu, 12 Jun 2025 14:10:03 +0000</pubDate>
+      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2878460866_9.jpg" />]]></description>
+    </item>
 
     <item>
       <title><![CDATA[Matt Seldon & Steve Boynton — Dreamweb - The Soundtrack, Remastered (Side B)]]></title>
@@ -159,14 +167,6 @@
       <guid>https://bipolararchitecture.bandcamp.com/album/metaphysicize</guid>
       <pubDate>Fri, 03 Jan 2025 09:47:35 +0000</pubDate>
       <description><![CDATA[<img src="https://f4.bcbits.com/img/a2407418869_9.jpg" />]]></description>
-    </item>
-
-    <item>
-      <title><![CDATA[sadness, soulless — burning as the first light]]></title>
-      <link>https://sadnessmusic.bandcamp.com/album/burning-as-the-first-light</link>
-      <guid>https://sadnessmusic.bandcamp.com/album/burning-as-the-first-light</guid>
-      <pubDate>Fri, 03 Jan 2025 09:39:16 +0000</pubDate>
-      <description><![CDATA[<img src="https://f4.bcbits.com/img/a2232278796_9.jpg" />]]></description>
     </item>
   </channel>
 </rss>
